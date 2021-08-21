@@ -3,7 +3,7 @@
                 <div class="row align-items-end">
                     <div class="col-md-6">
                         <div class="feature-img">
-                            <img src="img/business-man.png" alt="Image">
+                            <img src="img/why_us.png" style="height:500px;"  alt="Image">
                         </div>
                     </div>
                     <div class="col-md-6">
